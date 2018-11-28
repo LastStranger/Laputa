@@ -5,7 +5,7 @@ import ReactDOM from "react-dom";
 class App extends React.Component{
     render(){
         return(
-            <div>fuck you</div>
+            <div>fuck you, you little social path</div>
         )
     }
 }
